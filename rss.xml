@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Culinary Addicts Diary]]></title>
         <description><![CDATA[Culinary Addicts Diary]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/culinaryaddict/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 21:08:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 21:24:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/culinaryaddict/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blue Cheese and Dill Dip]]></title>
+            <description><![CDATA[<article><h1>Blue Cheese and Dill Dip</h1><p>Here is one of my favorite go-to recipes for a blue cheese dip that has dill in it. It’s very easy to make.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c91b01455db8cb657d51392a56ad71562af06ed.jpg"></article>]]></description>
+            <link>https://thegrid.ai/culinaryaddict/blue-cheese-and-dill-dip/index.html</link>
+            <guid isPermaLink="false">9efe4967-a693-44ae-beb9-af889bbf86f2</guid>
+            <pubDate>Sat, 05 Mar 2016 21:24:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Miso Crab Cakes]]></title>
             <description><![CDATA[<article><h1>Miso Crab Cakes</h1><p>Crab cakes come in so many different shapes, sizes, and flavor profiles. This Miso Mayo Crab Cake uses a homemade miso mayo I posted some time ago. You can get that recipe here “Miso Mayo”.  It gives the crab cake an excellent miso flavor with undertones of ginger. The typical crab cake is composed of crab meat and other various ingredients, such as breadcrumbs, mayonnaise, eggs, and seasonings. The crab cakes are either sautéed, baked, grilled or broiled. If Miso is not your thing, try wasabi/ chipotle mayo or a mayo of your choice.  Crab cakes are very versatile.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d6e1b5e6dedac6bf5b76a5d6d48cffc41177c50.jpg"></article>]]></description>
-            <link>undefined34277946-77a7-4969-b272-d679c0b7ebd4/index.html</link>
+            <link>https://thegrid.ai/culinaryaddict/34277946-77a7-4969-b272-d679c0b7ebd4/index.html</link>
             <guid isPermaLink="false">34277946-77a7-4969-b272-d679c0b7ebd4</guid>
             <pubDate>Sat, 05 Mar 2016 21:08:13 GMT</pubDate>
         </item>
