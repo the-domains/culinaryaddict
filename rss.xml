@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Culinary Addicts Diary]]></title>
+        <description><![CDATA[Culinary Addicts Diary]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Mar 2016 21:08:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Miso Crab Cakes]]></title>
+            <description><![CDATA[<article><h1>Miso Crab Cakes</h1><p>Crab cakes come in so many different shapes, sizes, and flavor profiles. This Miso Mayo Crab Cake uses a homemade miso mayo I posted some time ago. You can get that recipe here “Miso Mayo”.  It gives the crab cake an excellent miso flavor with undertones of ginger. The typical crab cake is composed of crab meat and other various ingredients, such as breadcrumbs, mayonnaise, eggs, and seasonings. The crab cakes are either sautéed, baked, grilled or broiled. If Miso is not your thing, try wasabi/ chipotle mayo or a mayo of your choice.  Crab cakes are very versatile.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d6e1b5e6dedac6bf5b76a5d6d48cffc41177c50.jpg"></article>]]></description>
+            <link>undefined34277946-77a7-4969-b272-d679c0b7ebd4/index.html</link>
+            <guid isPermaLink="false">34277946-77a7-4969-b272-d679c0b7ebd4</guid>
+            <pubDate>Sat, 05 Mar 2016 21:08:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
